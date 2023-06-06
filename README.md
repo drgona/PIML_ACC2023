@@ -15,10 +15,9 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 - <a href="https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy" target="_blank">Zoltan Nagy</a> (UT Austin)
 - <a href="https://www.merl.com/people/chakrabarty" target="_blank">Ankush Chakrabarty</a> (MERL)
 
-
 ## Tutorial paper
 <a href="drgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper.</a>
-<embed src="drgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" width="800" height="800" type="application/pdf"/>
+
 
 ### Authors of the paper
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
