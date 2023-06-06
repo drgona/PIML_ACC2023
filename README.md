@@ -3,21 +3,8 @@ Material for the tutorial session "Physics-Informed Machine Learning for Modelin
 Systems: Opportunities and Challenges" presented at the American Control Conference (ACC) 2023.
 
 
-## Session slides
-<a href="drgona.github.io/PIML_ACC2023/slides/ACC_PIML-session.pdf" target="_blank">PIML tutorial session overview slides.</a>  
-<a href="drgona.github.io/PIML_ACC2023/slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
-<a href="drgona.github.io/PIML_ACC2023/slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loraine Di Natale's talk.</a>  
-
-### Session organizers
-- <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
-- <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
-- <a href="https://people.epfl.ch/colin.jones" target="_blank">Colin Jones</a> (EPFL)
-- <a href="https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy" target="_blank">Zoltan Nagy</a> (UT Austin)
-- <a href="https://www.merl.com/people/chakrabarty" target="_blank">Ankush Chakrabarty</a> (MERL)
-
 ## Tutorial paper
 <a href="drgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper.</a>
-
 
 ### Authors of the paper
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
@@ -35,4 +22,21 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 - <a href="https://www.pnnl.gov/people/draguna-vrabie-phd" target="_blank">Draguna Vrabie</a> (PNNL)
 
 
+## Session slides
+<a href="drgona.github.io/PIML_ACC2023/slides/ACC_PIML-session.pdf" target="_blank">PIML tutorial session overview slides.</a>  
+<a href="drgona.github.io/PIML_ACC2023/slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
+<a href="drgona.github.io/PIML_ACC2023/slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loraine Di Natale's talk.</a>  
+
+### Session organizers
+- <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
+- <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
+- <a href="https://people.epfl.ch/colin.jones" target="_blank">Colin Jones</a> (EPFL)
+- <a href="https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy" target="_blank">Zoltan Nagy</a> (UT Austin)
+- <a href="https://www.merl.com/people/chakrabarty" target="_blank">Ankush Chakrabarty</a> (MERL)
+
+## Session photos
+![session room](./photos/session_room.jpg)
+![Colin_Jones](./photos/Colin_Jones.jpg)
+![Ankush_Chakrabarty](./photos/Ankush_Chakrabarty.jpg)
+![Loraine_Di_Natale](./photos/Loraine_Di_Natale.jpg)
 
