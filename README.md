@@ -4,7 +4,7 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 
 
 ## Tutorial paper
-<a href="drgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper.</a>
+<a href="./PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper.</a>
 
 ### Authors of the paper
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
@@ -23,9 +23,9 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 
 
 ## Session slides
-<a href="drgona.github.io/PIML_ACC2023/slides/ACC_PIML-session.pdf" target="_blank">PIML tutorial session overview slides.</a>  
-<a href="drgona.github.io/PIML_ACC2023/slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
-<a href="drgona.github.io/PIML_ACC2023/slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loraine Di Natale's talk.</a>  
+<a href="./slides/ACC_PIML-session.pdf" target="_blank">PIML tutorial session overview slides.</a>  
+<a href="./slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
+<a href="./slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loraine Di Natale's talk.</a>  
 
 ### Session organizers
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
