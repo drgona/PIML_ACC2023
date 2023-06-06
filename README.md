@@ -1,4 +1,4 @@
-# Physics-Informed Machine Learning (PIML) tutorial at the ACC 2023
+# Physics-Informed Machine Learning (PIML) tutorial ACC 2023
 Material for the tutorial session "Physics-Informed Machine Learning for Modeling and Control of Dynamical
 Systems: Opportunities and Challenges" presented at the American Control Conference (ACC) 2023.
 
@@ -8,7 +8,7 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 <a href="drgona.github.io/PIML_ACC2023/slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
 <a href="drgona.github.io/PIML_ACC2023/slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loraine Di Natale's talk.</a>  
 
-## Session organizers
+### Session organizers
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
 - <a href="https://people.epfl.ch/colin.jones" target="_blank">Colin Jones</a> (EPFL)
@@ -18,9 +18,9 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 
 ## Tutorial paper
 <a href="drgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper.</a>
-<embed src="rgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" width="100" height="100" type="application/pdf"/>
+<embed src="drgona.github.io/PIML_ACC2023/PIML_for_Control_paper_ACC23_Session.pdf" width="800" height="800" type="application/pdf"/>
 
-## Authors of the paper
+### Authors of the paper
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
 - <a href="https://people.epfl.ch/colin.jones" target="_blank">Colin Jones</a> (EPFL)
