@@ -39,7 +39,9 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 
 ## Session photos
 ![session room](./photos/session_room.jpg)
+![Wences_Shaw_Cortez](./photos/Wences_Shaw_Cortez.jpg)
 ![Colin_Jones](./photos/Colin_Jones.jpg)
 ![Ankush_Chakrabarty](./photos/Ankush_Chakrabarty.jpg)
 ![Loraine_Di_Natale](./photos/Loraine_Di_Natale.jpg)
+
 
