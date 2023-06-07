@@ -27,7 +27,6 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 <a href="./slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
 <a href="./slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loraine Di Natale's talk.</a>  
 <a href="./slides/06_02__ACC_PIML_4_inverse.pdf" target="_blank">Slides for Biswadip Dey's talk.</a>  
-<a href="./slides/ACC_Verification.pdf" target="_blank">Slides for Colin Jones' talk.</a>  
 
 ### Session organizers
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
