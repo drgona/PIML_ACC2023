@@ -28,8 +28,6 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 <a href="./slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loris Di Natale's talk.</a>  
 <a href="./slides/06_02__ACC_PIML_4_inverse.pdf" target="_blank">Slides for Biswadip Dey's talk.</a>  
 
-
-
 ### Session organizers
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
