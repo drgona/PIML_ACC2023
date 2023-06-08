@@ -24,6 +24,8 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 
 ## Session slides
 <a href="./slides/ACC_PIML-session.pdf" target="_blank">PIML tutorial session overview slides.</a>  
+<a href="./slides/ACC_Verification.pdf" target="_blank">Slides for Colin Jones' talk.</a>  
+<a href="./slides/Chakrabarty_ACC2023_PIML_DigitalTwins.pdf" target="_blank">Slides for Ankush Chakrabarty' talk.</a>
 <a href="./slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
 <a href="./slides/Loraine_230602_ACC_PiNN_short_v2.pdf" target="_blank">Slides for Loris Di Natale's talk.</a>  
 <a href="./slides/06_02__ACC_PIML_4_inverse.pdf" target="_blank">Slides for Biswadip Dey's talk.</a>  
