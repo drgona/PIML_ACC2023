@@ -4,7 +4,22 @@ Systems: Opportunities and Challenges" presented at the American Control Confere
 
 
 ## Tutorial paper
-<a href="./PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper.</a>
+[PIML tutorial paper on arxiv](https://arxiv.org/abs/2306.13867)  
+<a href="./PIML_for_Control_paper_ACC23_Session.pdf" target="_blank">PIML tutorial paper pdf.</a>
+
+## Cite as
+```yaml
+@article{nghiem2023physicsinformed,
+      title={Physics-Informed Machine Learning for Modeling and Control of Dynamical Systems}, 
+      author={Truong X. Nghiem and Ján Drgoňa and Colin Jones and Zoltan Nagy and Roland Schwan
+      and Biswadip Dey and Ankush Chakrabarty and Stefano Di Cairano and Joel A. Paulson and Andrea Carron
+      and Melanie N. Zeilinger and Wenceslao Shaw Cortez and Draguna L. Vrabie},
+      year={2023},
+      eprint={2306.13867},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY}
+}
+```
 
 ### Authors of the paper
 - <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
